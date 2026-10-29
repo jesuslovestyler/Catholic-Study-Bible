@@ -18,7 +18,7 @@ All public domain. Greek New Testament: the Robinson–Pierpont Byzantine Greek 
 
 ## The audit
 
-The deuterocanon's word-by-word tagging is being audited to the same standard as the original Study Bible's full-Bible audit — five stages, each published and verified on the live page as it completes. The audit is **in progress**, not finished; this README will say so until the last stage lands.
+The deuterocanon's word-by-word tagging has been audited to the same standard as the original Study Bible's full-Bible audit — five stages, each published and verified on the live page as it completed. The audit is **complete** (October 29, 2026): all **82,837 deuterocanon words**. Every supplement entry referenced by any book in the app carries a real, verse-verified definition — no stubs remain — and the few words kept in the supplement despite having a Strong's number say so openly in their entries, with the reason.
 
 ## The files
 
